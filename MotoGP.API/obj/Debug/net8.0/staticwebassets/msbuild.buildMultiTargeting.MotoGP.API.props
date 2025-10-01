@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MotoGP.API.props" />
+</Project>
